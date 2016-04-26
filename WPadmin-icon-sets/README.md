@@ -49,4 +49,4 @@ Copy the WPadmin-icon-sets/ folder and its content inside the assets/themes/ fol
 Go to School Setup > School Configuration and select it as **Default Theme**.
 Please remember users can choose their preferred theme by going to Users > My Preferences.
 
-Requires RosarioSIS 2.9+
+Requires RosarioSIS 2.8.24+
