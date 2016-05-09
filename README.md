@@ -5,7 +5,7 @@ WPadmin theme icon sets
 
 https://github.com/francoisjacquet/rosariosis-theme-wpadmin-icon-sets
 
-Version 1.0 - April, 2016
+Version 1.1 - May, 2016
 
 License: see icon folders for their respective license.
 
@@ -30,6 +30,12 @@ The default buttons icons set is inside the `btn/` folder.
 4 modules icons sets to choose from.
 
 The default modules icons set is inside the `modules/` folder.
+
+### Backgrounds
+
+2 background photos to choose from. For Login screen.
+
+The background photos are inside the `background/` folder.
 
 ### Stylesheet
 
