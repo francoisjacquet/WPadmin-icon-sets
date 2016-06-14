@@ -1,9 +1,9 @@
 WPadmin theme icon sets
 =======================
 
-![screenshot](https://raw.githubusercontent.com/francoisjacquet/rosariosis-theme-wpadmin-icon-sets/master/WPadmin-icon-sets/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/francoisjacquet/WPadmin-icon-sets/master/screenshot.png)
 
-https://github.com/francoisjacquet/rosariosis-theme-wpadmin-icon-sets
+https://github.com/francoisjacquet/WPadmin-icon-sets
 
 Version 1.1 - May, 2016
 
@@ -50,9 +50,9 @@ Colorize black icons using a free image manipulation software such as [XnConvert
 
 INSTALL
 -------
-Copy the WPadmin-icon-sets/ folder and its content inside the assets/themes/ folder of RosarioSIS.
+Copy the `WPadmin-icon-sets/` folder (if named `WPadmin-icon-sets-master`, rename it) and its content inside the `assets/themes/` folder of RosarioSIS.
 
-Go to School Setup > School Configuration and select it as **Default Theme**.
-Please remember users can choose their preferred theme by going to Users > My Preferences.
+Go to _School Setup > School Configuration_ and select it as **Default Theme**.
+Please remember users can choose their preferred theme by going to _Users > My Preferences_.
 
 Requires RosarioSIS 2.8.24+
