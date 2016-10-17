@@ -85,6 +85,11 @@ img[src="modules/Users/icon.png"] {
 }
 
 
+/* Spinner */
+.loading {
+	background-image: url(spinning.gif);
+}
+
 /* Login page background photo */
 body.login {
 	background-image: url('background/fall-colours.jpg');
