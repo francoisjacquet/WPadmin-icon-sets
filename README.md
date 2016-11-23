@@ -37,6 +37,10 @@ The default modules icons set is inside the `modules/` folder.
 
 The background photos are inside the `background/` folder.
 
+### Logo
+
+Rebrand RosarioSIS: replace the `logo.png` file wit your own logo.
+
 ### Stylesheet
 
 The `stylesheet.css` file simply links to the `WPadmin` theme's stylesheet
