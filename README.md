@@ -39,7 +39,7 @@ The background photos are inside the `background/` folder.
 
 ### Logo
 
-Rebrand RosarioSIS: replace the `logo.png` file wit your own logo.
+Rebrand RosarioSIS: replace the `logo.png` file with your own logo.
 
 ### Stylesheet
 
