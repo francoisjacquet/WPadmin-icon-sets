@@ -1,7 +1,7 @@
 GitLab
 ------
 
-RosarioSIS code is now hosted at [**GitLab**](https://gitlab.com/francoisjacquet/rosariosis)!
+RosarioSIS code is now hosted at [**GitLab**](https://gitlab.com/francoisjacquet/WPadmin-icon-sets)!
 
 WPadmin theme icon sets
 =======================
